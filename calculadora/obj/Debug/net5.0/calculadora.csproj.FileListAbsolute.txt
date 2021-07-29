@@ -1,0 +1,16 @@
+C:\Users\Kelly\Downloads\rodrigo\ExercicioYoutube\calculadora\bin\Debug\net5.0\calculadora.exe
+C:\Users\Kelly\Downloads\rodrigo\ExercicioYoutube\calculadora\bin\Debug\net5.0\calculadora.deps.json
+C:\Users\Kelly\Downloads\rodrigo\ExercicioYoutube\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.json
+C:\Users\Kelly\Downloads\rodrigo\ExercicioYoutube\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.dev.json
+C:\Users\Kelly\Downloads\rodrigo\ExercicioYoutube\calculadora\bin\Debug\net5.0\calculadora.dll
+C:\Users\Kelly\Downloads\rodrigo\ExercicioYoutube\calculadora\bin\Debug\net5.0\ref\calculadora.dll
+C:\Users\Kelly\Downloads\rodrigo\ExercicioYoutube\calculadora\bin\Debug\net5.0\calculadora.pdb
+C:\Users\Kelly\Downloads\rodrigo\ExercicioYoutube\calculadora\obj\Debug\net5.0\calculadora.csprojAssemblyReference.cache
+C:\Users\Kelly\Downloads\rodrigo\ExercicioYoutube\calculadora\obj\Debug\net5.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Downloads\rodrigo\ExercicioYoutube\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\ExercicioYoutube\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfo.cs
+C:\Users\Kelly\Downloads\rodrigo\ExercicioYoutube\calculadora\obj\Debug\net5.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\ExercicioYoutube\calculadora\obj\Debug\net5.0\calculadora.dll
+C:\Users\Kelly\Downloads\rodrigo\ExercicioYoutube\calculadora\obj\Debug\net5.0\ref\calculadora.dll
+C:\Users\Kelly\Downloads\rodrigo\ExercicioYoutube\calculadora\obj\Debug\net5.0\calculadora.pdb
+C:\Users\Kelly\Downloads\rodrigo\ExercicioYoutube\calculadora\obj\Debug\net5.0\calculadora.genruntimeconfig.cache
